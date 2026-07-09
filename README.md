@@ -30,9 +30,9 @@ Most rental scripts stop at "list + book." This platform ships with the features
 
 - **Smart Pricing Engine** — nightly prices adjust to demand, season, and local events — same dynamic-pricing algorithm Airbnb patented
 - **Verified Identity Built-In** — government-ID + selfie verification for hosts and guests — production-grade KYC, not just email + phone
-- **Multi-Currency + Multi-Language** — 
-- **Co-Host & Team Access** — hosts get paid in their local currency, with 1099 / tax-handling in 30+ countries — Airbnb's most-copied infrastructure
-- **Stripe Connect for Host Payouts** — hosts can invite co-hosts, cleaners, and operations staff — each with their own permission level and inbox
+- **Multi-Currency + Multi-Language** — 40+ currencies with auto-conversion, 15+ languages with locale-aware content — built for cross-border rentals
+- **Co-Host & Team Access** — hosts can invite co-hosts, cleaners, and operations staff — each with their own permission level and inbox
+- **Stripe Connect for Host Payouts** — hosts get paid in their local currency, with 1099 / tax-handling in 30+ countries — Airbnb's most-copied infrastructure
 
 ## 📦 Core Features
 
